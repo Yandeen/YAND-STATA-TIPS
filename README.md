@@ -1,2 +1,3 @@
 # YAND-STATA-TIPS
-Some stata tips to go faster
+
+This repo contains some stata do-files useful to solve some common issues faced in stata programming.
